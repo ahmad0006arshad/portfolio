@@ -1,3 +1,3 @@
 # Muhammad Ahmed — Portfolio
 
-Static portfolio site (plain HTML, CSS and a little JavaScript). No build step.
+Converted from Wordpress Elementor to a Static portfolio site (plain HTML, CSS and a little JavaScript) using personal coding experience and Claude.
